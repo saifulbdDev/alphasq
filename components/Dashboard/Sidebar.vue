@@ -114,7 +114,7 @@ import {mapActions, mapState} from 'vuex'
          
          
         ],
-        sidebarWidth: 240,
+        sidebarWidth: 200,
         sidebarMinWidth: 96
       }
     },

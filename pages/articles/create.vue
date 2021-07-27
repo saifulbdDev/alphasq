@@ -76,7 +76,7 @@ export default {
           }
 
           if (res.data.success) {
-            // this.$router.push("/articles");
+            this.$router.push("/articles");
           }
         })
         .catch(() => {
